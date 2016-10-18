@@ -17,3 +17,5 @@ Practice with React.js
 
 *因為資料來源已無法使用，便使用Sample Data 以利DEMO * 
 
+目前select_bar 也無法切換 待改善
+
