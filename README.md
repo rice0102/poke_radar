@@ -1,3 +1,4 @@
+
 # Rice react pokemon map practice project
 
 *api Can Not Work Now *
@@ -15,3 +16,4 @@ Practice with React.js
 
 
 *因為資料來源已無法使用，便使用Sample Data 以利DEMO * 
+
