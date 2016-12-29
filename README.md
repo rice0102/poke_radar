@@ -14,6 +14,11 @@ Practice with React.js
 	npm install 
 	npm start
 
+#DEMO
+
+## Screenshot
+![alt text](https://github.com/rice0102/poke_radar/blob/master/screenshot.PNG "poke_radar")
+
 
 *因為資料來源已無法使用，便使用Sample Data 以利DEMO * 
 
