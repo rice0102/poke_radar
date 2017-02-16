@@ -11,8 +11,8 @@ Practice with React.js
 4. when change map zoom or center call api again
 
 
-	npm install 
-	npm start
+>npm install 
+>npm start
 
 #DEMO
 
